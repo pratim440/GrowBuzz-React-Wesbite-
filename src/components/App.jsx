@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Redirect, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Services from './Services';
 import About from './About';
@@ -17,6 +17,7 @@ const App = () => {
             <Route exact path="/about" component={About} />
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/services/:name" component={CardDetail} />
+            <Redirect to="/"/>
         </Switch>
     </div>
     );
