@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/GrowBuzz-React-Wesbite-/static/css/main.08ebcbe7.chunk.css",
+    "main.js": "/GrowBuzz-React-Wesbite-/static/js/main.d88460bd.chunk.js",
+    "main.js.map": "/GrowBuzz-React-Wesbite-/static/js/main.d88460bd.chunk.js.map",
+    "runtime-main.js": "/GrowBuzz-React-Wesbite-/static/js/runtime-main.f8677b2a.js",
+    "runtime-main.js.map": "/GrowBuzz-React-Wesbite-/static/js/runtime-main.f8677b2a.js.map",
+    "static/js/2.e4a3c5e0.chunk.js": "/GrowBuzz-React-Wesbite-/static/js/2.e4a3c5e0.chunk.js",
+    "static/js/2.e4a3c5e0.chunk.js.map": "/GrowBuzz-React-Wesbite-/static/js/2.e4a3c5e0.chunk.js.map",
+    "index.html": "/GrowBuzz-React-Wesbite-/index.html",
+    "precache-manifest.9ea296da1dd407c83c7da4f088fa3612.js": "/GrowBuzz-React-Wesbite-/precache-manifest.9ea296da1dd407c83c7da4f088fa3612.js",
+    "service-worker.js": "/GrowBuzz-React-Wesbite-/service-worker.js",
+    "static/css/main.08ebcbe7.chunk.css.map": "/GrowBuzz-React-Wesbite-/static/css/main.08ebcbe7.chunk.css.map",
+    "static/js/2.e4a3c5e0.chunk.js.LICENSE.txt": "/GrowBuzz-React-Wesbite-/static/js/2.e4a3c5e0.chunk.js.LICENSE.txt",
+    "static/media/about_img.png": "/GrowBuzz-React-Wesbite-/static/media/about_img.619f0cc8.png",
+    "static/media/android.jpeg": "/GrowBuzz-React-Wesbite-/static/media/android.19a2e0ea.jpeg",
+    "static/media/app.jpeg": "/GrowBuzz-React-Wesbite-/static/media/app.70cea92a.jpeg",
+    "static/media/digital.jpeg": "/GrowBuzz-React-Wesbite-/static/media/digital.ac8f6f9a.jpeg",
+    "static/media/home_img.svg": "/GrowBuzz-React-Wesbite-/static/media/home_img.e981619f.svg",
+    "static/media/marketing.jpg": "/GrowBuzz-React-Wesbite-/static/media/marketing.2eed95a2.jpg",
+    "static/media/software.jpeg": "/GrowBuzz-React-Wesbite-/static/media/software.43049cae.jpeg",
+    "static/media/web.jpg": "/GrowBuzz-React-Wesbite-/static/media/web.1192a86d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8677b2a.js",
+    "static/js/2.e4a3c5e0.chunk.js",
+    "static/css/main.08ebcbe7.chunk.css",
+    "static/js/main.d88460bd.chunk.js"
+  ]
+}
